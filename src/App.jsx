@@ -10,7 +10,7 @@ export const App = () => {
       <div>
         <p>未完了のTODO</p>
         <ul>
-          <li>aaaaaa</li>
+          <li>まだおわっていまい</li>
           <button>complete!</button>
           <button>delete</button>
         </ul>
